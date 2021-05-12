@@ -1,3 +1,10 @@
+/*
+Rohit Kumar Varma (@immortal_1)
+Amrita University, Amritapuri, 2019-2023
+Prefix sum
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 #define for0(i, n) for (int i = 0; i < n; i++)
