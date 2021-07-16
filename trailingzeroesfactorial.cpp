@@ -3,7 +3,7 @@
 Rohit Kumar Varma (@immortal_1 at codechef and codeforces)
 Amrita Vishwa Vidyapeetham, Amritapuri
 
-Finding number of trailing zeroes in a number's factorial
+Finding number of trailing zeroes in a number's factorial in 0(Log(n)) time complexity
 
 Here we will be finding the number of trailing zeroes in a factorial of a number
 using naive solution we can just find the factorial and the find the number of 
