@@ -1,7 +1,7 @@
 /*
 Rohit Kumar Varma (@immortal_1)
 Amrita University, Amritapuri, 2019-2023
-Scanline algorithm
+Scanline algorithm 1d
 */
 
 
