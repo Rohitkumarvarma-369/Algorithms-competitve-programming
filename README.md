@@ -9,4 +9,4 @@ Added files:
 4. Basic hashing of storing the occurences in a string into a map data structure with time complexity of O(n*logn)+O(256)
 5. Prefix sum
 6. Scanline algorithm 1d
-7. 
+7. Iterative approach to find factorial of a number
