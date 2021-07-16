@@ -2,6 +2,8 @@
 
 Rohit Kumar Varma (@immortal_1 at codechef and codeforces)
 Amrita Vishwa Vidyapeetham, Amritapuri
+
+Three different methods to find the number of digits in a number
 */
 
 #include<bits/stdc++.h>
