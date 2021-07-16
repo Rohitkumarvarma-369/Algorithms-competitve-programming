@@ -3,6 +3,8 @@
 Rohit Kumar Varma (@immortal_1 at codechef and codeforces)
 Amrita Vishwa Vidyapeetham, Amritapuri
 
+iterative apporach to find the factorial of a number
+
 */
 
 #include<bits/stdc++.h>
