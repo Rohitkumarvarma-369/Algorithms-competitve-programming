@@ -4,7 +4,7 @@ Rohit Kumar Varma (@immortal_1 at codechef and codeforces)
 Amrita Vishwa Vidyapeetham, Amritapuri
 
 
-Optimised Euclidean algorithm to find the hcf of two numbers
+Optimised Euclidean algorithm to find the hcf of two numbers (TIme complexity: O(Log min(a, b)))
 */
 
 #include<bits/stdc++.h>
