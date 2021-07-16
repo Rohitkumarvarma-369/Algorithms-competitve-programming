@@ -7,4 +7,5 @@ Added files:
 2. Count the number of digits in a given number in three different ways
 3. Basic hashing of storing the occurences in a string into a frequency array with time complexity of O(n)+O(256)
 4. Basic hashing of storing the occurences in a string into a map data structure with time complexity of O(n*logn)+O(256)
-5. 
+5. Prefix sum
+6. 
