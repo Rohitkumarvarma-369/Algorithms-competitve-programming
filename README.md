@@ -10,3 +10,4 @@ Added files:
 5. Prefix sum
 6. Scanline algorithm 1d
 7. Iterative approach to find factorial of a number
+8. Recursive approach to find factorial of a number
