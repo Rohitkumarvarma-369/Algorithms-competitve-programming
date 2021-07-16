@@ -12,3 +12,4 @@ Added files:
 7. Iterative approach to find factorial of a number
 8. Recursive approach to find factorial of a number
 9. Finding number of trailing zeroes in a number's factorial in O(Log(n)) time complexity
+10. Find HCF of two numbers using Euclidean Algorithm
