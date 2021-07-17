@@ -15,3 +15,5 @@ Added files:
 10. Find HCF of two numbers using Euclidean Algorithm (TIme complexity: O(Log min(a, b)))
 11. Naive approach to find the lcm of two numbers. time complexity: O((a*b)-max(a,b))
 12. Efficient approach to find the lcm of two numbers using the relation a*b = gcd(a,b)*lcm(a,b); time complexity:O(log(min(a,b)))
+13. Naive approach to check if a given number is a prime number. Time complexity: O(n)
+14. 
