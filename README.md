@@ -18,3 +18,4 @@ Added files:
 13. Naive approach to check if a given number is a prime number. Time complexity: O(n)
 14. Efficient approach to check if a given number is a prime number. Time complexity: O(sq.root(n)) and this also further enhanced by adding simple divisibility checks to check if the number is divisible by 2 and 3, this reduces the time complexity by 1/3rd of just square root method.
 15. Naive approach to implement a function to find the prime factors of a given number
+Efficient approach to find the prime factors of a given number. Time complexity: O(sq.root(n)) to O(sq.root(n)/3)
