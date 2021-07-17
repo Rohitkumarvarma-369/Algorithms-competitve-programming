@@ -13,5 +13,5 @@ Added files:
 8. Recursive approach to find factorial of a number
 9. Finding number of trailing zeroes in a number's factorial in O(Log(n)) time complexity
 10. Find HCF of two numbers using Euclidean Algorithm (TIme complexity: O(Log min(a, b)))
-11. Naive approach to find the lcm of two numbers
-12. 
+11. Naive approach to find the lcm of two numbers. time complexity: O((a*b)-max(a,b))
+12. Efficient approach to find the lcm of two numbers using the relation a*b = gcd(a,b)*lcm(a,b); time complexity:O(log(min(a,b)))
