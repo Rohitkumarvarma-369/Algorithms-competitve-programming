@@ -19,4 +19,4 @@ Added files:
 14. Efficient approach to check if a given number is a prime number. Time complexity: O(sq.root(n)) and this also further enhanced by adding simple divisibility checks to check if the number is divisible by 2 and 3, this reduces the time complexity by 1/3rd of just square root method.
 15. Naive approach to implement a function to find the prime factors of a given number, Efficient approach to find the prime factors of a given number. Time complexity: O(sq.root(n)) to O(sq.root(n)/3)
 16. An efficient approach to find all divisors of a given number.
-17. 
+17. Sieve of Eratosthenes generating all the primes before a number n
