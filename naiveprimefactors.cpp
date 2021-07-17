@@ -6,6 +6,7 @@ Amrita Vishwa Vidyapeetham, Amritapuri
 Here we are finding the prime factors of a given number using naive approach just running a loop from 2 to n-1 and check for each number if it is a prime
 number and if it is a prime number then we can see how many times it divides the number till the remainder reaches zero, and then continue dividing with the
 next prime number.
+Time complexity: O((n^2)*logn)
 
 */
 
