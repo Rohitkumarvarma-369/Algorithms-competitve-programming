@@ -5,6 +5,7 @@ Amrita Vishwa Vidyapeetham, Amritapuri
 
 
 Finding the height if a binary tree.
+Time complexity: O(n)
 */
 
 #include<bits/stdc++.h>
