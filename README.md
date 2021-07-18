@@ -21,4 +21,4 @@ Added files:
 16. An efficient approach to find all divisors of a given number.
 17. Sieve of Eratosthenes generating all the primes before a number n.
 18. Calculate power of a number given the base and the required power.
-19. 
+19. Creating and traversing a binary tree using inorder, preorder and postorder methods
