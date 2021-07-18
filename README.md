@@ -24,3 +24,4 @@ Added files:
 19. Creating and traversing a binary tree using inorder, preorder and postorder methods
 20. Height of a binary tree. Time complexity: O(n)
 21. Print all the nodes at a distance of k units from the root node
+22. Print all the nodes in a binary tree, line by line, by traversing through the width of the tree. Time complexity: O(n), space comeplexity: theta(width of tree)
