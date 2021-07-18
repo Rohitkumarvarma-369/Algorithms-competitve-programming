@@ -22,3 +22,4 @@ Added files:
 17. Sieve of Eratosthenes generating all the primes before a number n.
 18. Calculate power of a number given the base and the required power.
 19. Creating and traversing a binary tree using inorder, preorder and postorder methods
+20. Height of a binary tree. Time complexity: O(n)
